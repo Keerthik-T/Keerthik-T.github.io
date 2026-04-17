@@ -23,7 +23,7 @@ const App = () => {
             {/* Navigation */}
             <nav className="fixed w-full z-50 glass">
                 <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-                    <a href="#" className="transition-colors font-bold text-xl">Home</a>
+                    <a href="#" className="font-bold text-xl text-foreground">Home</a>
                     <div className="hidden md:flex gap-8 items-center">
                         <a href="#about" className="hover:text-primary transition-colors">About</a>
                         <a href="#skills" className="hover:text-primary transition-colors">Skills</a>
